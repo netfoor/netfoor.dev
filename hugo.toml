@@ -1,0 +1,45 @@
+baseURL = 'localhost'
+languageCode = 'us'
+title = 'Fortino Romero'
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "about"
+
+  [[menu.main]]
+    name = "Projects"
+    url = "Projects"
+
+
+
+# Permalinks format for posts
+#[permalinks]
+ #   posts = "/:section/:year/:slug"
+
+[params]
+  author = "Fortino Romero"
+  defaultTheme = "light"
+  displayFullLangName = true
+
+  [params.profileMode]
+    enabled = true
+    subtitle = "Software Engineer"
+    imageUrl = "img/edit.jpg"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/netfoor"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/fortino-romero-mantilla"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:netfoor@outlook.com?subject=Desde Web Site:?body=Hola%20Fortino, "
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/foor.rm"
+  [[params.socialIcons]]
+   name = "x"
+   url = "https://x.com/foor_rm"
