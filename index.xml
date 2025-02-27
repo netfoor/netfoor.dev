@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Fortino Romero</title><link>localhost/</link><description>Recent content on Fortino Romero</description><generator>Hugo -- 0.145.0</generator><language>us</language><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>localhost/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>localhost/about/</guid><description>&lt;p>Hey, there! 👋&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Fortino Romero</title><link>https://netfoor.github.io/netfoor.dev/</link><description>Recent content on Fortino Romero</description><generator>Hugo -- 0.145.0</generator><language>us</language><atom:link href="https://netfoor.github.io/netfoor.dev/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://netfoor.github.io/netfoor.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://netfoor.github.io/netfoor.dev/about/</guid><description>&lt;p>Hey, there! 👋&lt;/p>
 &lt;p>I am Fortino Romero, a Cloud &amp;amp; DevOps enthusiast with a strong focus on Amazon Web Services (AWS), Docker, and Linux. Founder and leader of the first AWS User Group in Puebla, I am passionate about building cloud-native solutions and optimizing infrastructure through automation and scalability.&lt;/p>
-&lt;p>I recently had the opportunity to travel to Japan for a training program on emerging technologies, broadening my perspective on innovation and global tech trends. Additionally, I have actively participated in hackathons and technology events, where I enjoy collaborating with multidisciplinary teams to solve real-world challenges.&lt;/p></description></item><item><title> Intelligent Energy Management for Federal Electricity Commission (CFE)</title><link>localhost/projects/cfe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>localhost/projects/cfe/</guid><description>&lt;p>may. 2024 - may. 2024&lt;/p>
+&lt;p>I recently had the opportunity to travel to Japan for a training program on emerging technologies, broadening my perspective on innovation and global tech trends. Additionally, I have actively participated in hackathons and technology events, where I enjoy collaborating with multidisciplinary teams to solve real-world challenges.&lt;/p></description></item><item><title> Intelligent Energy Management for Federal Electricity Commission (CFE)</title><link>https://netfoor.github.io/netfoor.dev/projects/cfe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://netfoor.github.io/netfoor.dev/projects/cfe/</guid><description>&lt;p>may. 2024 - may. 2024&lt;/p>
 &lt;p> &lt;/p>
 &lt;p>Application focused on reducing energy consumption during critical peak periods, optimizing the distribution of available energy, and informing users about efficient energy use.&lt;/p>
 &lt;p> &lt;/p>
@@ -13,7 +13,7 @@
 &lt;li>Amazon Web Services (AWS)&lt;/li>
 &lt;li>GitHub&lt;/li>
 &lt;li>Git&lt;/li>
-&lt;/ul></description></item><item><title>Advanced AI and IoT-Integrated Flood Prediction and Community Disaster Management System</title><link>localhost/projects/flood/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>localhost/projects/flood/</guid><description>&lt;p>sept. 2024 - dic. 2024&lt;/p>
+&lt;/ul></description></item><item><title>Advanced AI and IoT-Integrated Flood Prediction and Community Disaster Management System</title><link>https://netfoor.github.io/netfoor.dev/projects/flood/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://netfoor.github.io/netfoor.dev/projects/flood/</guid><description>&lt;p>sept. 2024 - dic. 2024&lt;/p>
 &lt;p> &lt;/p>
 &lt;p>Intelligent real-time monitoring and flood prediction system, with a focus on flood-prone urban areas like Tabasco. The system combines satellite, meteorological, and device data using technologies such as IoT, artificial intelligence, and cloud computing.&lt;/p>
 &lt;p> &lt;/p>
@@ -37,7 +37,7 @@
 &lt;li>Docker Products&lt;/li>
 &lt;li>Project Management&lt;/li>
 &lt;li>SOLIDWORKS&lt;/li>
-&lt;/ul></description></item><item><title>Data Intelligence</title><link>localhost/projects/data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>localhost/projects/data/</guid><description>&lt;p>jul. 2024 - jul. 2024jul&lt;/p>
+&lt;/ul></description></item><item><title>Data Intelligence</title><link>https://netfoor.github.io/netfoor.dev/projects/data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://netfoor.github.io/netfoor.dev/projects/data/</guid><description>&lt;p>jul. 2024 - jul. 2024jul&lt;/p>
 &lt;p> &lt;/p>
 &lt;p>Development of a system that prioritizes reported company issues through a ticketing system, using Notion and Slack APIs to organize and visualize them in a dashboard.&lt;/p>
 &lt;p> &lt;/p>
@@ -51,7 +51,7 @@
 &lt;li>Application Programming Interfaces (API)&lt;/li>
 &lt;li>Git&lt;/li>
 &lt;li>GitHub&lt;/li>
-&lt;/ul></description></item><item><title>HackUTP Landing Page</title><link>localhost/projects/hack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>localhost/projects/hack/</guid><description>&lt;p>jul. 2024 - nov. 2024&lt;/p>
+&lt;/ul></description></item><item><title>HackUTP Landing Page</title><link>https://netfoor.github.io/netfoor.dev/projects/hack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://netfoor.github.io/netfoor.dev/projects/hack/</guid><description>&lt;p>jul. 2024 - nov. 2024&lt;/p>
 &lt;p> &lt;/p>
 &lt;p>Platform designed to provide information about the HackUTP event. Built with Astro and deployed using GitHub Actions and GitHub Pages, with data management via Amazon RDS and integration with the event’s mobile app.&lt;/p>
 &lt;p> &lt;/p>
@@ -67,7 +67,7 @@
 &lt;li>Teamwork&lt;/li>
 &lt;li>Linux&lt;/li>
 &lt;li>GitFlow&lt;/li>
-&lt;/ul></description></item><item><title>Inclusive Education Platform for People with Disabilities integrated with AI</title><link>localhost/projects/whex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>localhost/projects/whex/</guid><description>&lt;p>jun. 2024 - jun. 2024&lt;/p>
+&lt;/ul></description></item><item><title>Inclusive Education Platform for People with Disabilities integrated with AI</title><link>https://netfoor.github.io/netfoor.dev/projects/whex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://netfoor.github.io/netfoor.dev/projects/whex/</guid><description>&lt;p>jun. 2024 - jun. 2024&lt;/p>
 &lt;p> &lt;/p>
 &lt;p>Educational platform to promote inclusion and proper treatment of people with disabilities. It includes educational resources, workshops, interactive programs, and an AI-based chatbot to answer users&amp;rsquo; questions.&lt;/p>
 &lt;p> &lt;/p>
@@ -80,7 +80,7 @@
 &lt;li>Teamwork&lt;/li>
 &lt;li>Artificial Intelligence (AI)&lt;/li>
 &lt;li>Docker Products&lt;/li>
-&lt;/ul></description></item><item><title>Security Incident Management System (SGIS) for Converge Technology Solutions</title><link>localhost/projects/sgis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>localhost/projects/sgis/</guid><description>&lt;p>abr. 2024 - abr. 2024&lt;/p>
+&lt;/ul></description></item><item><title>Security Incident Management System (SGIS) for Converge Technology Solutions</title><link>https://netfoor.github.io/netfoor.dev/projects/sgis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://netfoor.github.io/netfoor.dev/projects/sgis/</guid><description>&lt;p>abr. 2024 - abr. 2024&lt;/p>
 &lt;p> &lt;/p>
 &lt;p>Development of a system to store information and notify about security incidents, covering all phases of incident management from detection to post-analysis.&lt;/p>
 &lt;p> &lt;/p>
@@ -94,7 +94,7 @@
 &lt;li>Git&lt;/li>
 &lt;li>Cybersecurity&lt;/li>
 &lt;li>Amazon Web Services (AWS)&lt;/li>
-&lt;/ul></description></item><item><title>SMARTWASTE VISION</title><link>localhost/projects/waste/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>localhost/projects/waste/</guid><description>&lt;p>ago. 2024 - ago. 2024&lt;/p>
+&lt;/ul></description></item><item><title>SMARTWASTE VISION</title><link>https://netfoor.github.io/netfoor.dev/projects/waste/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://netfoor.github.io/netfoor.dev/projects/waste/</guid><description>&lt;p>ago. 2024 - ago. 2024&lt;/p>
 &lt;p> &lt;/p>
 &lt;p>Development of an automated waste classification system based on artificial intelligence that not only separates waste but also raises community awareness and monitors the status of bins, ensuring efficient management and timely collection.&lt;/p>
 &lt;p> &lt;/p>
